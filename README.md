@@ -52,16 +52,3 @@ To get started with the project, follow the steps below.
 2. Input a medical query following the provided guidelines.
 3. Click the "Generate Response" button to obtain a detailed medical response.
 
-## Contributing
-
-Contributions to the Medical Query Generator are welcome! If you have suggestions, enhancements, or bug fixes, please follow the steps below:
-
-1. Fork the project.
-2. Create your feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
