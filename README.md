@@ -44,7 +44,7 @@ To get started with the project, follow the steps below.
    python app.py
    ```
 
-   The application will be accessible at [http://localhost:5000/](http://localhost:5000/).
+   The application will be accessible at : [http://localhost:5000/](http://localhost:5000/).
 
 ## Usage
 
